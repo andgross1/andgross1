@@ -4,13 +4,12 @@
 <hr>
 ...um resumo da ópera: Sobre mim :
 
-- *Me chamo André Gross e sou de Mogi das Cruzes;*
+- *Fullstack Developer | React • Node • TypeScript;*
 
-- *Apaixonado por Dev Web, em especial por Front End;*
+- *Construindo aplicações web escaláveis, APIs e soluções com foco em performance e UX desde 2022.;*
 
-- *Estudante da Trybe #vqv🚀;*
+- *Código limpo, boas práticas e aprendizado contínuo 🚀;*
 
-- *Adoro aprender cada dia mais e também compartilhar conhecimento;*
 <hr>
 <div align="center">
     <img height="180em"
